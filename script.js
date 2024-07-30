@@ -106,7 +106,7 @@ var array=[1,45,34,56,78];
 for (let i=0;i<array.length;i++) {
     console.log(array[i]);
   }
-  var obj={fname:'Heera',age:34,place:'tvm'}
+  var obj={fname:'Biji',age:34,place:'tvm'}
 //   for in loop
 for(const i in obj)
 {
