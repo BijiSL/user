@@ -33,8 +33,8 @@ d=90;
 let person={
     fname:'dhina',
     age:3,
-  //  location:'TVM'
-//}
+   location:'TVM'
+}
 //console.log(person.age);
 //console.log(person.location);
 let person=new Object();
